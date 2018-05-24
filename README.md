@@ -9,6 +9,18 @@ In 2018, Riviera DEV will move to a bigger and more comfortable venue, with a th
 
 ## Friday 18 May 2018
 
+### Fire & Fury: Java Flight Recorder and Flamegraphs
+**Description**
+Java Flight Recorder (JFR) is a lightweight profiler that comes with the Oracle JDK (and that will land on OpenJDK in the near future). It's a hidden gem that can help you boost the performance of your apps running on the JVM.
+
+The data recorded with JFR is usually visualised with Java Mission Control (JMC), but in this talk we will show that you can also generate flamegraphs to visualise your performance out of JFR recordings. Flamegraphs are a data visualisation that has been taking momentum in the performance tuning area and is becoming widely used. While people generally use profilers to check CPU-consuming code, we will show how JFR and Flamegraphs can be also used to investigate concurrency, memory allocation and exception-related issues.
+
+[Slides](https://www.slideshare.net/secret/mpuAbsPAD7SM2D)
+
+[Flamegrapher open-source tool](https://github.com/flamegrapher/flamegrapher)
+
+By [Nenad Bogojevic](https://twitter.com/NenadBo) & [Leonardo Gomes](https://twitter.com/lgomes)
+
 ### TESTS DE CHARGE AVEC GATLING
 **Description**
 
