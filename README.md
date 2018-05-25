@@ -5,7 +5,35 @@ In 2018, Riviera DEV will move to a bigger and more comfortable venue, with a th
 
 ## Wednesday 16 May 2018
 
+### BEM, la tête la première
+
+**Description**
+
+Il est très facile de faire une modification en CSS. Il est plus difficile de s'assurer que ce changement n'a pas de conséquences indésirables. En suivant une méthodologie comme BEM, vous pouvez organiser votre code en composants, isoler votre code et le rendre plus maintenable !
+
+Dans cette longue conférence, nous verrons ce qu'est BEM et pourquoi vous devriez l'utiliser. Nous prendrons le temps de voir les bonnes pratiques associées, ainsi que ses limitations. A la fin, vous devriez être assez confortable avec la méthodologie BEM pour pouvoir l'essayer sur vos projets, même ceux en cours.
+
+[Slides](https://tzi.fr/slides/riviera2018-bem/)
+
+Par [Thomas Zilliox](https://twitter.com/iamtzi)
+
 ## Thursday 17 May 2018
+
+### Astuces pour des CSS orientées composants
+
+**Description**
+
+Avoir des styles orientés composants permet un grand gain en lisibilité et maintenabilité, mais attention, il y a beaucoup de pièges à éviter !
+
+Adopter des outils ou une méthodologie n’est malheureusement pas magique. Même après avoir adopté une méthodologie BEM, vos blocks peuvent être difficilement réutilisables. Même en faisant du CSS-in-JS et du React, un meilleur découpage de composants aurait pu rendre vos styles plus facile à écrire.
+
+Après plus de 10 ans en quête des CSS maintenables, j’ai noté de nombreuses astuces pour créer des composants réutilisables. Des astuces issues de méthodologies fortes comme OOCSS, des idées trouvées en faisant de la veille régulière, mais surtout des règles apprises en faisant des erreurs quotidiennes !
+
+En suivant cette conférence vous apprendrez 7 règles faciles à suivre lors de vos prochaines intégrations, quelque soit votre méthodologie et vos outils.
+
+[Slides](https://tzi.fr/slides/riviera2018-cmp/)
+
+Par [Thomas Zilliox](https://twitter.com/iamtzi)
 
 ## Friday 18 May 2018
 
